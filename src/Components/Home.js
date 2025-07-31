@@ -20,13 +20,16 @@ function Home() {
     </div>
     <div id="hero-carousel" className="carousel slide" data-bs-ride="carousel" data-bs-interval={5000}>
       <div className="carousel-item">
-        <img src="assets/img/hero-carousel/b.jpg" alt />
+        <img src="assets/img/hero-carousel/ba1.jpg" alt />
       </div>
       <div className="carousel-item active">
-        <img src="assets/img/hero-carousel/d.jpg" alt />
+        <img src="assets/img/hero-carousel/e.jpg" alt />
       </div>
       <div className="carousel-item">
-        <img src="assets/img/hero-carousel/c.jpg" alt />
+        <img src="assets/img/hero-carousel/ca1.jpg" alt />
+      </div>
+      <div className="carousel-item">
+        <img src="assets/img/hero-carousel/da1.jpg" alt />
       </div>
       
       <a className="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
